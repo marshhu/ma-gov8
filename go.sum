@@ -1,0 +1,4 @@
+github.com/lazytiger/go-v8 v0.0.0-20131210065505-b2466929848d h1:5RPVeOLIV6VLwRaJSYVzxRAZGXIuSWe7y00SjQhf38Q=
+github.com/lazytiger/go-v8 v0.0.0-20131210065505-b2466929848d/go.mod h1:9doeGWHiDRGkr6MTgsCm6ksT+soQe9Fr2Gh0baPW1Mo=
+rogchap.com/v8go v0.2.0 h1:/WYn0qDow4Q5nLzzl5FUUzHyMtH9KKh0ZVmMiDSFTBo=
+rogchap.com/v8go v0.2.0/go.mod h1:IitZnaOtWSJadY/7qinKHIEHpxsilMWyLQ+Efdo4n4I=
